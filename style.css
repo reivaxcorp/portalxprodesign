@@ -19,7 +19,7 @@ ul.sdt_menu li{
 }
 ul.sdt_menu li > a{
 	position:absolute;
-	top:0px;
+	top:-30px;
 	left:0px;
 	width:120px;
 	height:42px;
