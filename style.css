@@ -20,7 +20,7 @@ ul.sdt_menu li{
 ul.sdt_menu li > a{
 	position:absolute;
 	top:-30px;
-	left:0px;
+	left:48px; /* corre el menu a la la derecha */
 	width:120px;
 	height:85px; /* alto de caja transparencia */
 	z-index:12;
