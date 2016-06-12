@@ -21,7 +21,7 @@ ul.sdt_menu li > a{
 	position:absolute;
 	top:-30px;
 	left:0px;
-	width:120px;
+	width:0px;
 	height:85px; /* alto de caja transparencia */
 	z-index:12;
 	background:transparent url(https://rawgit.com/reivaxcorp/portalxprodesign/master/overlay.png) no-repeat bottom right;
